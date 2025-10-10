@@ -1,0 +1,75 @@
+﻿@page
+@model CustomerAuth.Pages.SignUpModel
+@{
+    ViewData["Title"] = "Sign Up";
+}
+
+<h2>Sign Up</h2>
+
+<form method="post">
+    <div class="mb-3">
+        <label>First Name</label>
+        <input asp-for="NewUser.First_name" class="form-control" />
+        <span asp-validation-for="NewUser.First_name" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label>Last Name</label>
+        <input asp-for="NewUser.Last_name" class="form-control" />
+        <span asp-validation-for="NewUser.Last_name" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label>Email</label>
+        <input asp-for="NewUser.Email" class="form-control" />
+        <span asp-validation-for="NewUser.Email" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label>Username</label>
+        <input asp-for="NewUser.username" class="form-control" />
+        <span asp-validation-for="NewUser.username" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label>Password</label>
+        <input asp-for="NewUser.Password" type="password" class="form-control" />
+        <span asp-validation-for="NewUser.Password" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-success btn-glow">Create Account</button>
+</form>
+<style>
+    .btn-glow.glow {
+        box-shadow: 0 0 10px rgba(255, 255, 255, 0.8);
+        transition: box-shadow 0.3s ease-in-out;
+    }
+    .btn-glow.glow:hover {
+        box-shadow: 0 0 20px rgba(255, 255, 255, 1);
+        
+    }
+    .btn-glow {
+        background-color: #28a745; /* Green background */
+        color: white; /* White text */
+        border: none; /* No border */
+    }
+    .btn-glow:hover {
+        background-color: #218838; /* Darker green on hover */
+        color: white; /* Keep text white on hover */
+        }
+    .btn-glow:focus {
+        outline: none; /* Remove default focus outline */
+        box-shadow: 0 0 10px rgba(255, 255, 255, 0.8); /* Add custom focus effect */
+        }
+
+
+</style>
+
+@if (!string.IsNullOrEmpty(Model.ErrorMessage))
+{
+    <div class="text-danger mt-3">@Model.ErrorMessage</div>
+}
+@if (!string.IsNullOrEmpty(Model.SuccessMessage))
+{
+    <div class="text-success mt-3">@Model.SuccessMessage</div>
+}
