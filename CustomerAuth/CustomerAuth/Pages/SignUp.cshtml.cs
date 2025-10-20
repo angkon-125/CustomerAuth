@@ -46,7 +46,7 @@ namespace CustomerAuth.Pages
             {
                 ErrorMessage = "This username is already taken.";
                 return Page();
-            }
+            } 
 
             _context.User_Accounts.Add(NewUser);
             await _context.SaveChangesAsync();

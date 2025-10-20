@@ -7,7 +7,7 @@ builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("Default")));
 
 builder.Services.AddRazorPages();
-builder.Services.AddSession(); // For login sessions
+builder.Services.AddSession();
 
 var app = builder.Build();
 

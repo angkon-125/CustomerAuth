@@ -1,4 +1,4 @@
-using CustomerAuth.Entities;
+﻿using CustomerAuth.Entities;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
@@ -38,9 +38,13 @@ namespace CustomerAuth.Pages
 
         public async Task<IActionResult> OnGetAsync()
         {
+            var email = HttpContext.Session.GetString("UserEmail");
+            if (string.IsNullOrEmpty(email)) return RedirectToPage("/SignIn");
+
             Users = await _context.User_Accounts.ToListAsync();
             return Page();
         }
+
 
         public async Task<IActionResult> OnPostToggleBlockAsync(int id)
         {

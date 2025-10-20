@@ -169,3 +169,4 @@ E:\Blazor app\CustomerAuth\CustomerAuth\bin\Debug\net8.0\runtimes\win\lib\net6.0
 E:\Blazor app\CustomerAuth\CustomerAuth\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 E:\Blazor app\CustomerAuth\CustomerAuth\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 E:\Blazor app\CustomerAuth\CustomerAuth\obj\Debug\net8.0\Customer.4B07E1BB.Up2Date
+E:\Blazor app\CustomerAuth\CustomerAuth\obj\Debug\net8.0\CustomerAuth.sourcelink.json
