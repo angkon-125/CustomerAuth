@@ -4727,11 +4727,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Blazor app\\CustomerAuth\\CustomerAuth\\CustomerAuth.csproj",
+      "projectUniqueName": "C:\\Users\\KOW_USER\\Source\\Repos\\CustomerAuth\\CustomerAuth\\CustomerAuth\\CustomerAuth.csproj",
       "projectName": "CustomerAuth",
-      "projectPath": "E:\\Blazor app\\CustomerAuth\\CustomerAuth\\CustomerAuth.csproj",
+      "projectPath": "C:\\Users\\KOW_USER\\Source\\Repos\\CustomerAuth\\CustomerAuth\\CustomerAuth\\CustomerAuth.csproj",
       "packagesPath": "C:\\Users\\KOW_USER\\.nuget\\packages\\",
-      "outputPath": "E:\\Blazor app\\CustomerAuth\\CustomerAuth\\obj\\",
+      "outputPath": "C:\\Users\\KOW_USER\\Source\\Repos\\CustomerAuth\\CustomerAuth\\CustomerAuth\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

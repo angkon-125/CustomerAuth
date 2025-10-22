@@ -43,6 +43,8 @@ namespace CustomerAuth.Pages
             }
 
             HttpContext.Session.SetString("UserEmail", user.Email);
+            HttpContext.Session.SetString("UserImage", user.ProfileImagePath ?? "");
+
             return RedirectToPage("/Profile");
         }
     }

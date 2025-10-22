@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Gz/nrJ+nlKM=",
+  "dgSpecHash": "S77iCQgKp+I=",
   "success": true,
-  "projectFilePath": "E:\\Blazor app\\CustomerAuth\\CustomerAuth\\CustomerAuth.csproj",
+  "projectFilePath": "C:\\Users\\KOW_USER\\Source\\Repos\\CustomerAuth\\CustomerAuth\\CustomerAuth\\CustomerAuth.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\KOW_USER\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\KOW_USER\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

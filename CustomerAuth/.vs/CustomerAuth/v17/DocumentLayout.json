@@ -1,42 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Blazor app\\CustomerAuth\\",
+  "WorkspaceRootPath": "C:\\Users\\KOW_USER\\source\\repos\\CustomerAuth\\CustomerAuth\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F38738EC-BC0A-41B1-91D7-467E2BF6E099}|CustomerAuth\\CustomerAuth.csproj|e:\\blazor app\\customerauth\\customerauth\\pages\\userlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F38738EC-BC0A-41B1-91D7-467E2BF6E099}|CustomerAuth\\CustomerAuth.csproj|solutionrelative:customerauth\\pages\\userlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F38738EC-BC0A-41B1-91D7-467E2BF6E099}|CustomerAuth\\CustomerAuth.csproj|c:\\users\\kow_user\\source\\repos\\customerauth\\customerauth\\customerauth\\pages\\signup.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F38738EC-BC0A-41B1-91D7-467E2BF6E099}|CustomerAuth\\CustomerAuth.csproj|solutionrelative:customerauth\\pages\\signup.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F38738EC-BC0A-41B1-91D7-467E2BF6E099}|CustomerAuth\\CustomerAuth.csproj|e:\\blazor app\\customerauth\\customerauth\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F38738EC-BC0A-41B1-91D7-467E2BF6E099}|CustomerAuth\\CustomerAuth.csproj|c:\\users\\kow_user\\source\\repos\\customerauth\\customerauth\\customerauth\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F38738EC-BC0A-41B1-91D7-467E2BF6E099}|CustomerAuth\\CustomerAuth.csproj|solutionrelative:customerauth\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F38738EC-BC0A-41B1-91D7-467E2BF6E099}|CustomerAuth\\CustomerAuth.csproj|e:\\blazor app\\customerauth\\customerauth\\entities\\appdbcantext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F38738EC-BC0A-41B1-91D7-467E2BF6E099}|CustomerAuth\\CustomerAuth.csproj|solutionrelative:customerauth\\entities\\appdbcantext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F38738EC-BC0A-41B1-91D7-467E2BF6E099}|CustomerAuth\\CustomerAuth.csproj|e:\\blazor app\\customerauth\\customerauth\\pages\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F38738EC-BC0A-41B1-91D7-467E2BF6E099}|CustomerAuth\\CustomerAuth.csproj|solutionrelative:customerauth\\pages\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F38738EC-BC0A-41B1-91D7-467E2BF6E099}|CustomerAuth\\CustomerAuth.csproj|e:\\blazor app\\customerauth\\customerauth\\pages\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F38738EC-BC0A-41B1-91D7-467E2BF6E099}|CustomerAuth\\CustomerAuth.csproj|solutionrelative:customerauth\\pages\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F38738EC-BC0A-41B1-91D7-467E2BF6E099}|CustomerAuth\\CustomerAuth.csproj|e:\\blazor app\\customerauth\\customerauth\\pages\\profile.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F38738EC-BC0A-41B1-91D7-467E2BF6E099}|CustomerAuth\\CustomerAuth.csproj|solutionrelative:customerauth\\pages\\profile.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F38738EC-BC0A-41B1-91D7-467E2BF6E099}|CustomerAuth\\CustomerAuth.csproj|e:\\blazor app\\customerauth\\customerauth\\pages\\userlist.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F38738EC-BC0A-41B1-91D7-467E2BF6E099}|CustomerAuth\\CustomerAuth.csproj|solutionrelative:customerauth\\pages\\userlist.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F38738EC-BC0A-41B1-91D7-467E2BF6E099}|CustomerAuth\\CustomerAuth.csproj|e:\\blazor app\\customerauth\\customerauth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F38738EC-BC0A-41B1-91D7-467E2BF6E099}|CustomerAuth\\CustomerAuth.csproj|c:\\users\\kow_user\\source\\repos\\customerauth\\customerauth\\customerauth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F38738EC-BC0A-41B1-91D7-467E2BF6E099}|CustomerAuth\\CustomerAuth.csproj|solutionrelative:customerauth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F38738EC-BC0A-41B1-91D7-467E2BF6E099}|CustomerAuth\\CustomerAuth.csproj|e:\\blazor app\\customerauth\\customerauth\\pages\\signup.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F38738EC-BC0A-41B1-91D7-467E2BF6E099}|CustomerAuth\\CustomerAuth.csproj|solutionrelative:customerauth\\pages\\signup.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F38738EC-BC0A-41B1-91D7-467E2BF6E099}|CustomerAuth\\CustomerAuth.csproj|c:\\users\\kow_user\\source\\repos\\customerauth\\customerauth\\customerauth\\pages\\signin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F38738EC-BC0A-41B1-91D7-467E2BF6E099}|CustomerAuth\\CustomerAuth.csproj|solutionrelative:customerauth\\pages\\signin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F38738EC-BC0A-41B1-91D7-467E2BF6E099}|CustomerAuth\\CustomerAuth.csproj|c:\\users\\kow_user\\source\\repos\\customerauth\\customerauth\\customerauth\\pages\\userlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F38738EC-BC0A-41B1-91D7-467E2BF6E099}|CustomerAuth\\CustomerAuth.csproj|solutionrelative:customerauth\\pages\\userlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F38738EC-BC0A-41B1-91D7-467E2BF6E099}|CustomerAuth\\CustomerAuth.csproj|c:\\users\\kow_user\\source\\repos\\customerauth\\customerauth\\customerauth\\pages\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F38738EC-BC0A-41B1-91D7-467E2BF6E099}|CustomerAuth\\CustomerAuth.csproj|solutionrelative:customerauth\\pages\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F38738EC-BC0A-41B1-91D7-467E2BF6E099}|CustomerAuth\\CustomerAuth.csproj|c:\\users\\kow_user\\source\\repos\\customerauth\\customerauth\\customerauth\\entities\\appdbcantext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F38738EC-BC0A-41B1-91D7-467E2BF6E099}|CustomerAuth\\CustomerAuth.csproj|solutionrelative:customerauth\\entities\\appdbcantext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F38738EC-BC0A-41B1-91D7-467E2BF6E099}|CustomerAuth\\CustomerAuth.csproj|c:\\users\\kow_user\\source\\repos\\customerauth\\customerauth\\customerauth\\pages\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F38738EC-BC0A-41B1-91D7-467E2BF6E099}|CustomerAuth\\CustomerAuth.csproj|solutionrelative:customerauth\\pages\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F38738EC-BC0A-41B1-91D7-467E2BF6E099}|CustomerAuth\\CustomerAuth.csproj|c:\\users\\kow_user\\source\\repos\\customerauth\\customerauth\\customerauth\\pages\\profile.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F38738EC-BC0A-41B1-91D7-467E2BF6E099}|CustomerAuth\\CustomerAuth.csproj|solutionrelative:customerauth\\pages\\profile.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F38738EC-BC0A-41B1-91D7-467E2BF6E099}|CustomerAuth\\CustomerAuth.csproj|c:\\users\\kow_user\\source\\repos\\customerauth\\customerauth\\customerauth\\pages\\userlist.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F38738EC-BC0A-41B1-91D7-467E2BF6E099}|CustomerAuth\\CustomerAuth.csproj|solutionrelative:customerauth\\pages\\userlist.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,27 +50,39 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
+              "Title": "SignIn.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\KOW_USER\\source\\repos\\CustomerAuth\\CustomerAuth\\CustomerAuth\\Pages\\SignIn.cshtml.cs",
+              "RelativeDocumentMoniker": "CustomerAuth\\Pages\\SignIn.cshtml.cs",
+              "ToolTip": "C:\\Users\\KOW_USER\\source\\repos\\CustomerAuth\\CustomerAuth\\CustomerAuth\\Pages\\SignIn.cshtml.cs",
+              "RelativeToolTip": "CustomerAuth\\Pages\\SignIn.cshtml.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAmwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T12:26:57.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "SignIn.cshtml",
-              "DocumentMoniker": "E:\\Blazor app\\CustomerAuth\\CustomerAuth\\Pages\\SignIn.cshtml",
+              "DocumentMoniker": "C:\\Users\\KOW_USER\\source\\repos\\CustomerAuth\\CustomerAuth\\CustomerAuth\\Pages\\SignIn.cshtml",
               "RelativeDocumentMoniker": "CustomerAuth\\Pages\\SignIn.cshtml",
-              "ToolTip": "E:\\Blazor app\\CustomerAuth\\CustomerAuth\\Pages\\SignIn.cshtml",
+              "ToolTip": "C:\\Users\\KOW_USER\\source\\repos\\CustomerAuth\\CustomerAuth\\CustomerAuth\\Pages\\SignIn.cshtml",
               "RelativeToolTip": "CustomerAuth\\Pages\\SignIn.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAKgAAABTAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAKgAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-14T07:50:13.648Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Profile.cshtml",
-              "DocumentMoniker": "E:\\Blazor app\\CustomerAuth\\CustomerAuth\\Pages\\Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\KOW_USER\\source\\repos\\CustomerAuth\\CustomerAuth\\CustomerAuth\\Pages\\Profile.cshtml",
               "RelativeDocumentMoniker": "CustomerAuth\\Pages\\Profile.cshtml",
-              "ToolTip": "E:\\Blazor app\\CustomerAuth\\CustomerAuth\\Pages\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\KOW_USER\\source\\repos\\CustomerAuth\\CustomerAuth\\CustomerAuth\\Pages\\Profile.cshtml",
               "RelativeToolTip": "CustomerAuth\\Pages\\Profile.cshtml",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAAC4AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -74,11 +90,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "AppDbCantext.cs",
-              "DocumentMoniker": "E:\\Blazor app\\CustomerAuth\\CustomerAuth\\Entities\\AppDbCantext.cs",
+              "DocumentMoniker": "C:\\Users\\KOW_USER\\source\\repos\\CustomerAuth\\CustomerAuth\\CustomerAuth\\Entities\\AppDbCantext.cs",
               "RelativeDocumentMoniker": "CustomerAuth\\Entities\\AppDbCantext.cs",
-              "ToolTip": "E:\\Blazor app\\CustomerAuth\\CustomerAuth\\Entities\\AppDbCantext.cs",
+              "ToolTip": "C:\\Users\\KOW_USER\\source\\repos\\CustomerAuth\\CustomerAuth\\CustomerAuth\\Entities\\AppDbCantext.cs",
               "RelativeToolTip": "CustomerAuth\\Entities\\AppDbCantext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -88,35 +104,33 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "E:\\Blazor app\\CustomerAuth\\CustomerAuth\\Pages\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\KOW_USER\\source\\repos\\CustomerAuth\\CustomerAuth\\CustomerAuth\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "CustomerAuth\\Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "E:\\Blazor app\\CustomerAuth\\CustomerAuth\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\KOW_USER\\source\\repos\\CustomerAuth\\CustomerAuth\\CustomerAuth\\Pages\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "CustomerAuth\\Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAYwDQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-14T07:48:49.483Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-14T07:48:49.483Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "UserList.cshtml",
-              "DocumentMoniker": "E:\\Blazor app\\CustomerAuth\\CustomerAuth\\Pages\\UserList.cshtml",
+              "DocumentMoniker": "C:\\Users\\KOW_USER\\source\\repos\\CustomerAuth\\CustomerAuth\\CustomerAuth\\Pages\\UserList.cshtml",
               "RelativeDocumentMoniker": "CustomerAuth\\Pages\\UserList.cshtml",
-              "ToolTip": "E:\\Blazor app\\CustomerAuth\\CustomerAuth\\Pages\\UserList.cshtml",
+              "ToolTip": "C:\\Users\\KOW_USER\\source\\repos\\CustomerAuth\\CustomerAuth\\CustomerAuth\\Pages\\UserList.cshtml",
               "RelativeToolTip": "CustomerAuth\\Pages\\UserList.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAFkBAAAAAAAAAAAAAFQAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-14T07:46:03.446Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-14T07:46:03.446Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Profile.cshtml.cs",
-              "DocumentMoniker": "E:\\Blazor app\\CustomerAuth\\CustomerAuth\\Pages\\Profile.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\KOW_USER\\source\\repos\\CustomerAuth\\CustomerAuth\\CustomerAuth\\Pages\\Profile.cshtml.cs",
               "RelativeDocumentMoniker": "CustomerAuth\\Pages\\Profile.cshtml.cs",
-              "ToolTip": "E:\\Blazor app\\CustomerAuth\\CustomerAuth\\Pages\\Profile.cshtml.cs",
+              "ToolTip": "C:\\Users\\KOW_USER\\source\\repos\\CustomerAuth\\CustomerAuth\\CustomerAuth\\Pages\\Profile.cshtml.cs",
               "RelativeToolTip": "CustomerAuth\\Pages\\Profile.cshtml.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -124,11 +138,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "UserList.cshtml.cs",
-              "DocumentMoniker": "E:\\Blazor app\\CustomerAuth\\CustomerAuth\\Pages\\UserList.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\KOW_USER\\source\\repos\\CustomerAuth\\CustomerAuth\\CustomerAuth\\Pages\\UserList.cshtml.cs",
               "RelativeDocumentMoniker": "CustomerAuth\\Pages\\UserList.cshtml.cs",
-              "ToolTip": "E:\\Blazor app\\CustomerAuth\\CustomerAuth\\Pages\\UserList.cshtml.cs",
+              "ToolTip": "C:\\Users\\KOW_USER\\source\\repos\\CustomerAuth\\CustomerAuth\\CustomerAuth\\Pages\\UserList.cshtml.cs",
               "RelativeToolTip": "CustomerAuth\\Pages\\UserList.cshtml.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAwwCgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -136,27 +150,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Blazor app\\CustomerAuth\\CustomerAuth\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\KOW_USER\\source\\repos\\CustomerAuth\\CustomerAuth\\CustomerAuth\\Program.cs",
               "RelativeDocumentMoniker": "CustomerAuth\\Program.cs",
-              "ToolTip": "E:\\Blazor app\\CustomerAuth\\CustomerAuth\\Program.cs",
+              "ToolTip": "C:\\Users\\KOW_USER\\source\\repos\\CustomerAuth\\CustomerAuth\\CustomerAuth\\Program.cs",
               "RelativeToolTip": "CustomerAuth\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-13T12:17:44.833Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "SignUp.cshtml.cs",
-              "DocumentMoniker": "E:\\Blazor app\\CustomerAuth\\CustomerAuth\\Pages\\SignUp.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\KOW_USER\\source\\repos\\CustomerAuth\\CustomerAuth\\CustomerAuth\\Pages\\SignUp.cshtml.cs",
               "RelativeDocumentMoniker": "CustomerAuth\\Pages\\SignUp.cshtml.cs",
-              "ToolTip": "E:\\Blazor app\\CustomerAuth\\CustomerAuth\\Pages\\SignUp.cshtml.cs",
+              "ToolTip": "C:\\Users\\KOW_USER\\source\\repos\\CustomerAuth\\CustomerAuth\\CustomerAuth\\Pages\\SignUp.cshtml.cs",
               "RelativeToolTip": "CustomerAuth\\Pages\\SignUp.cshtml.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAIwDEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAAAIwBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T12:14:10.464Z"
+              "WhenOpened": "2025-10-13T12:14:10.464Z",
+              "EditorCaption": ""
             }
           ]
         }

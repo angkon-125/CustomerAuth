@@ -14,6 +14,9 @@ namespace CustomerAuth.Pages
 
         public string ErrorMessage { get; set; } = "";
         public string SuccessMessage { get; set; } = "";
+        [BindProperty]
+        public IFormFile ProfileImage { get; set; }
+
 
         public SignUpModel(AppDbContext context)
         {

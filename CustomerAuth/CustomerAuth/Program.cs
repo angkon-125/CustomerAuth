@@ -8,6 +8,8 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 
 builder.Services.AddRazorPages();
 builder.Services.AddSession();
+builder.Services.AddHttpContextAccessor();
+
 
 var app = builder.Build();
 
